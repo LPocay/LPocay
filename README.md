@@ -1,40 +1,15 @@
-# 👋 Hi, I'm Luigi Pocay
+# 💫 About Me:
+# 👋 Hi, I'm Luigi Pocay<br><br>I'm a **Software Engineer** with a passion for **web development**. I specialize in creating high-performance web applications using modern technologies like **NestJS**, **Next.js**, **SvelteKit**, and **Go**. I enjoy learning and constantly seek to expand my knowledge into new areas.<br><br>## 💻 What I Do<br><br>- **Web Development**: I craft scalable and efficient web applications using a variety of modern frameworks and languages.<br>- **Backend Systems**: I build robust backends that power seamless user experiences.<br>- **Learning**: I'm always on the lookout for new technologies and methodologies to enhance my skill set.<br><br>## 🌱 What I'm Learning<br><br>I'm currently expanding my knowledge in:<br>- **Machine Learning**: Exploring the world of AI and data to create intelligent systems.<br>- **Computer Graphics**: Experimenting with graphics programming as a hobby, diving into the world of rendering and visual effects.<br><br>## 🎯 Goals<br><br>- **Deepen my expertise in machine learning and computer graphics.**<br>- **Contribute to open-source projects and collaborate with the community.**<br>- **Continue building and sharing knowledge through my work.**<br><br>## 📫 Get in Touch<br><br>Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/luigi-pocay-070467144/) or follow my work here on GitHub. Let's build something great together!
 
-I'm a **Software Engineer** with a passion for **web development**. I specialize in creating high-performance web applications using modern technologies like **NestJS**, **Next.js**, **SvelteKit**, and **Go**. I enjoy learning and constantly seek to expand my knowledge into new areas.
 
-## 💻 What I Do
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lpocay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lpocay&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lpocay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- **Web Development**: I craft scalable and efficient web applications using a variety of modern frameworks and languages.
-- **Backend Systems**: I build robust backends that power seamless user experiences.
-- **Learning**: I'm always on the lookout for new technologies and methodologies to enhance my skill set.
+---
+[![](https://visitcount.itsvg.in/api?id=lpocay&icon=0&color=11)](https://visitcount.itsvg.in)
 
-## 🌱 What I'm Learning
-
-I'm currently expanding my knowledge in:
-- **Machine Learning**: Exploring the world of AI and data to create intelligent systems.
-- **Computer Graphics**: Experimenting with graphics programming as a hobby, diving into the world of rendering and visual effects.
-
-## 🎯 Goals
-
-- **Deepen my expertise in machine learning and computer graphics.**
-- **Contribute to open-source projects and collaborate with the community.**
-- **Continue building and sharing knowledge through my work.**
-
-## 📫 Get in Touch
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/luigi-pocay-070467144/) or follow my work here on GitHub. Let's build something great together!
-
-<!--
-**LPocay/LPocay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

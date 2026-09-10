@@ -1,33 +1,32 @@
-# 💫 About Me
-
-👋 Hi, I'm Luigi Pocay  
-I'm a **Software Engineer** with a passion for **web development**. I specialize in creating high-performance web applications using modern technologies like **NestJS**, **Next.js**, **SvelteKit**, and **Go**. I enjoy learning and constantly seek to expand my knowledge into new areas.
-
-## 💻 What I Do
-- **Web Development**: I craft scalable and efficient web applications using a variety of modern frameworks and languages.
-- **Backend Systems**: I build robust backends that power seamless user experiences.
-- **Learning**: I'm always on the lookout for new technologies and methodologies to enhance my skill set.
-
-## 🌱 What I'm Learning
-- **Machine Learning**: Exploring the world of AI and data to create intelligent systems.
-- **Computer Graphics**: Experimenting with graphics programming as a hobby, diving into the world of rendering and visual effects.
-
-## 🎯 Goals
-- **Deepen my expertise in machine learning and computer graphics.**
-- **Contribute to open-source projects and collaborate with the community.**
-- **Continue building and sharing knowledge through my work.**
-
-## 📫 Get in Touch
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/luigi-pocay-070467144/) or follow my work here on GitHub.
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lpocay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lpocay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lpocay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=lpocay&icon=0&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Luigi Pocay
+ 
+Senior Software Engineer working across frontend, backend, distributed systems, and applied AI.
+ 
+I build production software mainly with **Go**, **TypeScript**, and **Node.js** — React, SvelteKit, NestJS, PostgreSQL, Docker, and Kubernetes — with experience designing APIs, authentication and authorization systems, real-time workflows, integrations, and cloud-based applications.
+ 
+Over the last few years I've worked on products ranging from web platforms and internal tools to real-time systems and AI-assisted workflows.
+ 
+<br/>
+**Selected experience**
+ 
+- Built real-time systems bridging web applications, backend services, and hardware-facing components over [protocolo: MQTT / WebSockets / serial], handling [N] events per second.
+- Designed backend services, APIs, authentication flows, permissions, caching, and asynchronous workflows.
+- Deployed and operated containerized applications in cloud environments using Docker and Kubernetes.
+- Built and maintained full-stack applications across frontend, backend, and infrastructure layers.
+<br/>
+**Applied AI**
+ 
+I work on the engineering side of AI systems: agents, tool use, retrieval, structured outputs, evaluation, observability, and workflow orchestration — integrated into existing products rather than bolted on.
+ 
+I care particularly about building AI systems that are reliable, measurable, and useful in production — not just impressive in demos.
+ 
+<br/>
+**Selected projects**
+ 
+Most of my professional work lives in private company repositories, so these are public implementations and technical experiments that reflect the same engineering principles.
+ 
+[**repo-uno**](https://github.com/lpocay/…) — Qué resuelve, en una línea. `Go` `Postgres`  
+[**repo-dos**](https://github.com/lpocay/…) — Idem. `TypeScript` `MCP`
+ 
+<br/>
+[LinkedIn](https://www.linkedin.com/in/luigi-pocay-070467144/) · [luigiapocay92@gmail.com](mailto:luigiapocay92@gmail.com)
